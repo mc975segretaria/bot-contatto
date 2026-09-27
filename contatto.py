@@ -7,7 +7,7 @@ from  telegram . ext  import  (
 from datetime import datetime
 
 # ==== CONFIGURAZIONE ====
-TOKEN = "8672421896:AAGDzSHl-XQZP4MPZ8iBH_6sf5eDHhplGTE"
+TOKEN = "8826166311:AAHTHKV2ARzqh9K3kQK6OuZNl3Qrb8_0uCg"
 ADMIN_ID = 5055246527
 INFO_TESTO = (
     "ℹ️ *Informazioni*\n\n"
